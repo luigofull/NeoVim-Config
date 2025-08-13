@@ -26,7 +26,7 @@ With SSH:
 $ git clone git@github.com:luigofull/NeoVim-Config.git
 ```
 
-4. After cloning repository move `NeoVim-Config/custom/` to `~/.config/nvim/lua`
+4. After cloning repository copy `NeoVim-Config/custom/` to `~/.config/nvim/lua`
 ```
 $ cp -r NeoVim-Config/custom/ ~/.config/nvim/lua/
 ```
